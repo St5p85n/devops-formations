@@ -473,3 +473,6 @@ Cette section est utilisée pour pratiquer le travail avec les branches Git.
 - Push
 - Pull Request
 - Merge
+## Git Practice
+
+Cette section est utilisée pour pratiquer les commandes Git avancées.
