@@ -476,3 +476,7 @@ Cette section est utilisée pour pratiquer le travail avec les branches Git.
 ## Git Practice
 
 Cette section est utilisée pour pratiquer les commandes Git avancées.
+
+## Git Reset Practice
+
+Commit créé pour pratiquer git reset
