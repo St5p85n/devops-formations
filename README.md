@@ -480,3 +480,7 @@ Cette section est utilisée pour pratiquer les commandes Git avancées.
 ## Git Reset Practice
 
 Commit créé pour pratiquer git reset
+
+## Git Stash Practice
+
+Cette section sert à apprendre git stash.
