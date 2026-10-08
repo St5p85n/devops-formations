@@ -1,4 +1,4 @@
-# 🚀 Formation DevOps
+# Formation DevOps
 
 Bienvenue dans le repository officiel de la **formation DevOps**.
 
@@ -462,3 +462,14 @@ Pour contribuer :
 ## Licence
 
 Ce repository est destiné à un usage pédagogique et de formation.
+
+## Git Branches — Progression
+
+Cette section est utilisée pour pratiquer le travail avec les branches Git.
+
+- Création d'une branche
+- Modification du code
+- Commit
+- Push
+- Pull Request
+- Merge
