@@ -492,3 +492,6 @@ Cette section permet de pratiquer la réorganisation des commits avec git rebase
 ## Git Merge Practice
 
 Cette section permet de pratiquer la fusion de branches avec git merge.
+## Git Collaboration Practice
+
+Cette section permet de pratiquer le travail collaboratif avec Git.
