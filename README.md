@@ -484,3 +484,6 @@ Commit créé pour pratiquer git reset
 ## Git Stash Practice
 
 Cette section sert à apprendre git stash.
+## Git Rebase Practice
+
+Cette section permet de pratiquer la réorganisation des commits avec git rebase.
