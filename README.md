@@ -484,3 +484,8 @@ Commit créé pour pratiquer git reset
 ## Git Stash Practice
 
 Cette section sert à apprendre git stash.
+
+## Git Merge Practice
+
+Cette section permet de pratiquer la fusion de branches avec git merge.
+
