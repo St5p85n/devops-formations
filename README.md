@@ -495,3 +495,7 @@ Cette section permet de pratiquer la fusion de branches avec git merge.
 ## Git Collaboration Practice
 
 Cette section permet de pratiquer le travail collaboratif avec Git.
+
+## Git Rebase Demo
+
+Cette section sert à comprendre le fonctionnement de git rebase.
